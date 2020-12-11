@@ -8,7 +8,7 @@ function App() {
       <h1>My Portfolio</h1>
       <div>
         <ul>
-          <li><a href="https://github.com/anywhere-fitness-1/front-end/tree/bill-xiong"></a></li>
+          <li><a href="https://www.apple.com"></a></li>
         </ul>
       </div>
       
